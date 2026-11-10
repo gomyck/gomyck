@@ -4,7 +4,7 @@
 </div>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/mzxc/mzxc/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/gomyck/gomyck/output/github-contribution-grid-snake.svg)
 
 个人网站：
 [https://blog.gomyck.com](https://blog.gomyck.com)
